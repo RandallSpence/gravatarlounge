@@ -1,6 +1,6 @@
 {
   "name": "reactTestingStarter",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "React Starter Seed with BDD TDD",
   "main": "webpack.config.js",
   "scripts": {

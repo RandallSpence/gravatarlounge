@@ -1,1 +1,1 @@
-# React Starter Seed
+# Gravatar Lounge
